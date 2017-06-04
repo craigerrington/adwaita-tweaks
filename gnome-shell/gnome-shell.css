@@ -6,9 +6,9 @@ stage {
 
 /* transculent panel */
 #panel {
-    background-color: rgba(58, 65, 65, 0.80);
+    background-color: rgba(58, 65, 65, 1.0);
     height: 23px;
-	border: 1px solid rgba(0, 0, 0, 0.50);
+	border: 1px solid rgba(0, 0, 0, 1.0);
 }
 
 /* centers the panel text and buttons */
