@@ -1,3 +1,5 @@
+# Adwaita Tweaks Solid
+
 This is a modification of the adwaita-tweaks theme. I have simply changed two values in the gnome-shell.css file to remove tansparency.
 
 Everything below is from the original adwaita-tweaks README
